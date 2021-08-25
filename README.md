@@ -1,10 +1,35 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-Bienvenidos, soy Alejandro Galus y soy desarrollador front end junior. Ojala que a futuro pueda realizar un proyecto que ayude a alguiena crecer en su negocio .
+Bienvenidos, soy Alejandro Galus y soy desarrollador front end junior. Ojala que a futuro pueda realizar un proyecto que ayude a alguien a crecer en su negocio .
 
 ### Un poco sobre mi...💬
 
-![image](https://user-images.githubusercontent.com/68312629/130708421-8c4c40be-2478-4678-86fc-8f3a2e1f8abe.png)
+📫..Estudie en la universidad y me recibi de Licenciado en RRHH en el año 2014. Pero desde el año 2009 que trabajo en distintas areas de recursos humanos, en los ultmimos 4 años trabaje en capacitacion y desarrollo. Despues de mas de 10 años de experiencia decidi hacer un cambio de carrera.
+
+
+### Tecnologias
+
+Estas son algunas de las tecnologías con las que he trabajado hasta ahora, espero seguir aprendiendo más.
+
+⚡ HTML
+
+⚡ CSS
+
+⚡ JavaScript
+
+⚡ Bootstrap
+
+⚡ React
+
+⚡ Git
+
+⚡ Git-hub
+
+
+
+
+
+
 
 
 <!--
