@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+Bienvenidos, soy Alejandro Galus y soy desarrollador front end junior. Ojala que a futuro pueda realizar un proyecto que ayude a alguiena crecer en su negocio .
+
+### Un poco sobre mi...💬
+
+![image](https://user-images.githubusercontent.com/68312629/130708421-8c4c40be-2478-4678-86fc-8f3a2e1f8abe.png)
+
+
 <!--
 **alegalus/alegalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
