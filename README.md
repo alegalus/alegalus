@@ -4,7 +4,7 @@ Bienvenidos, soy Alejandro Galus y soy desarrollador front end junior. Ojala que
 
 ### Un poco sobre mi...💬
 
-📫..Estudie en la universidad y me recibi de Licenciado en RRHH en el año 2014. Desde el año 2009 que trabajo en distintas areas de recursos humanos, en los ultmimos 4 años trabaje en capacitacion y desarrollo. Despues de mas de 10 años de experiencia decidi hacer un cambio de carrera.
+📫..Me recibi de Licenciado en recursos humanos en el año 2014. Desde el año 2009 que trabajo en distintas areas de recursos humanos, en los ultmimos 4 años trabaje en capacitacion y desarrollo. Despues de mas de 10 años de experiencia decidi hacer un cambio de carrera.
 
 
 ### Tecnologias
