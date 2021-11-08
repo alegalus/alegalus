@@ -19,8 +19,6 @@ Estas son algunas de las tecnologías con las que he trabajado hasta ahora, espe
 
 ⚡ Bootstrap
 
-⚡ React
-
 ⚡ Git
 
 ⚡ Git-hub
