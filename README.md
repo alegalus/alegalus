@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Bienvenidos, soy Alejandro Galus y soy desarrollador front end junior. Ojala que a futuro pueda realizar un proyecto que ayude a alguien a crecer en su negocio .
+Bienvenidos, mi nombre es Alejandro Galus y soy desarrollador full stack. Ojala que a futuro pueda realizar un proyecto que ayude a alguien a crecer en su negocio .
 
 ### Un poco sobre mi...💬
 
