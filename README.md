@@ -17,16 +17,23 @@ Estas son algunas de las tecnologías con las que he trabajado hasta ahora, espe
 
 ⚡ JavaScript
 
+⚡ React Js
+
+⚡ Redux
+
+⚡ Node Js
+
+⚡ Express
+
+⚡ Sequelize
+
+⚡ PostgresSQL
+
 ⚡ Bootstrap
 
 ⚡ Git
 
 ⚡ Git-hub
-
-
-
-
-
 
 
 
