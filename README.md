@@ -30,7 +30,7 @@ Estas son algunas de las tecnologías con las que he trabajado hasta ahora, espe
 
 ✔️ Bootstrap
 
-✔️ Git - Git-hub
+✔️ Git - Github
 
 
 
