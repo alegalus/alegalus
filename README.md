@@ -1,7 +1,7 @@
 
 ### ¡Hola! 👋
 
-`let name = Alejandro Galus`
+`let name = "Alejandro Galus"`
 
 Bienvenidos, mi nombre es `name` y soy Full Stack Web Developer.
 
