@@ -13,7 +13,7 @@ Bienvenidos, mi nombre es `name` y soy Full Stack Web Developer.
 
 ### Un poco sobre mi...💬
 
-📢Soy Licenciado en Recursos Humanos y desde 2009, trabajo en distintas áreas vinculadas a Capital Humano, especializándome en los últimos 4 años en capacitación y desarrollo. Después de más de 10 años de experiencia, decidí hacer un cambio en mi carrera. En el 2019 me adentré en el mundo de la programación a través de cursos en distintas plataformas. Este aprendizaje autogestionado me preparó para luego poder dar un paso más y comenzar el bootcamp de Henry, en donde pude pasar por + 800hs de experiencia en programacion, tanto academica como en proyectos individuales y grupales. 
+📢Estudie y me recibi de licenciado en Recursos Humanos y desde 2009, trabajo en distintas áreas vinculadas a Capital Humano, especializándome en los últimos 4 años en capacitación y desarrollo. Después de más de 10 años de experiencia, decidí hacer un cambio en mi carrera. En el 2019 me adentré en el mundo de la programación a través de cursos en distintas plataformas. Este aprendizaje autogestionado me preparó para luego poder dar un paso más y comenzar el bootcamp de Henry, en donde pude pasar por + 800hs de experiencia en programacion, tanto academica como en proyectos individuales y grupales.
 
 
 
