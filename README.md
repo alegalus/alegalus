@@ -8,7 +8,7 @@ Bienvenidos, mi nombre es `name` y soy Full Stack Web Developer.
 
 📧 Email: alejandrogalus83@yahoo.com.ar
 📝 Linkedin: https://www.linkedin.com/in/alegalus/
-💻 Proyectos: https://linktr.ee/alegalus
+💻 Portfolio: https://vercel.com/alegalus/ale-galus
 
 
 ### Un poco sobre mi...💬
